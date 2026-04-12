@@ -99,10 +99,10 @@ Sou **Analista de Sistemas Sênior** com sólida experiência no setor bancário
 
 ### 📊 Estatísticas
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CasluAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasluAlmeida&layout=compact&langs_count=7&theme=tokyonight&custom_title=Tecnologias" />
-</p>
+</p> -->
 
 ---
 
